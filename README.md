@@ -13,7 +13,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nitish-kumar-2908sv1412/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mr.nitishbakhetia@gmail.com)
 
 
