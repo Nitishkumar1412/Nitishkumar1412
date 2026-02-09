@@ -39,11 +39,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitishkumar1412&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nitishkumar1412&theme=tokyonight)
 
 
 
