@@ -8,7 +8,10 @@
 - 📊 Aspiring Data Scientist  
 - 💡 Strong interest in Machine Learning & Problem Solving  
 - 🧠 Actively practicing DSA  
-- 🤝 Hackathon Participant & Team Collaborator  
+- 🤝 Hackathon Participant & Team Collaborator
+
+
+[![Profile view counter](https://komarev.com)]
 
 
 ## 🌐 Connect With Me
