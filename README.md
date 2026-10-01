@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Data Scientist | ML Enthusiast</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=Nitishkumar1412&label=Profile%20views&color=blue&style=flat)
+
 
 ## 🚀 About Me
 
