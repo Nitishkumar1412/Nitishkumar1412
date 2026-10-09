@@ -13,6 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nitish-kumar-2908sv1412/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mr.nitishbakhetia@gmail.com)
+[![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/Nitish2186)
 
 </div>
 
@@ -105,6 +106,7 @@ I'm open to internships, collaborations and ML project ideas.
   <a href="https://www.linkedin.com/in/nitish-kumar-2908sv1412/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mr.nitishbakhetia@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Nitishkumar1412"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/Nitish2186"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <div align="center">
