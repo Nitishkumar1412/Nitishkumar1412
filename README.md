@@ -90,12 +90,6 @@ I'm a B.Tech CSE (AI & ML) student at **Sharda University** who enjoys turning d
 </div>
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nitishkumar1412/Nitishkumar1412/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
 
 
 ## 📫 Let's Connect
