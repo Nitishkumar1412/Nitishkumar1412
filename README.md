@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitish%20Kumar&fontSize=58&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20in%20the%20making&descAlignY=58&descSize=20" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitish%20Kumar&fontSize=58&fontAlignY=40" alt="Banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=B.Tech+CSE+(AI+%26+ML)+%7C+Sharda+University;Aspiring+Data+Scientist+%F0%9F%93%8A;Building+with+Python%2C+ML+%26+React+%E2%9A%A1;Solving+problems+one+DSA+question+at+a+time+%F0%9F%A7%A0" alt="Typing animation" />
